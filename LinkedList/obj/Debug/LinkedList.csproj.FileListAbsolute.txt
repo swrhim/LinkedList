@@ -1,1 +1,6 @@
 C:\Users\srhim_000\Documents\GitHub\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\srhim_000\Documents\GitHub\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\srhim_000\Documents\GitHub\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\srhim_000\Documents\GitHub\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\srhim_000\Documents\GitHub\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\srhim_000\Documents\GitHub\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
