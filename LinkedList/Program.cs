@@ -12,6 +12,7 @@ namespace LinkedList
         {
             LinkedList<int, string> ll = new LinkedList<int, string>();
             ll.AddNodeFirst(0, "a");
+            ll.AddNodeLast(3, "e");
             ll.AddNodeLast(1, "b");
             ll.AddNodeLast(2, "c");
 
@@ -19,6 +20,16 @@ namespace LinkedList
             {
                 Console.WriteLine(value);
             }
+
+            Console.WriteLine("/*******************/");
+
+            var deleteNode = new Node<int, string>(1, "b", null);
+            ll.DeleteNode(deleteNode.Key);
+            foreach (string value in ll)
+            {
+                Console.WriteLine(value);
+            }
+            
         }
     }
 }

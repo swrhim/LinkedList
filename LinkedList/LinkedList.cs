@@ -63,7 +63,7 @@ namespace LinkedList
 
             while (!cur.Key.Equals(key))
             {
-                prev = head;
+                prev = cur;
                 cur = cur.Next;
             }
 
